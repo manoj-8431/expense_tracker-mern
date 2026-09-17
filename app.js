@@ -12,7 +12,7 @@ const userRoute = require('./Routes/userRoute')
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 app.use(morgan('dev'))
-app.use(cors(''))
+app.use(cors())
 
 app.use('/transaction', transactionRoute)
 app.use('/user', userRoute)
