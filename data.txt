@@ -1,0 +1,4 @@
+1. Complete the HTTP video
+2. Start recursions 
+3. Practise Python(Debuging, 2 mins-functions)
+3. Continue the Project(last priority)
